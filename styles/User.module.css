@@ -1,0 +1,29 @@
+.detail{
+  text-align: center;
+  padding: 40px 0;
+}
+.username{
+  font-size: 45px;
+  color: cornflowerblue;
+}
+.email{
+  font-size: 25px;
+  margin-top: 15px;
+}
+.website{
+  font-size: 22px;
+  margin-top: 15px;
+}
+.btn{
+  display: inline-block;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: crimson;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 15px;
+}

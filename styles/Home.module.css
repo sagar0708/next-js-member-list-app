@@ -1,0 +1,14 @@
+.title{
+  font-size: 45px;
+  color: darkcyan;
+  margin-bottom: 15px;
+}
+.text{
+  font-size: 16px;
+  color: black;
+  margin: 15px 0;
+  font-weight: 500;
+}
+.home{
+  text-align: center;
+}
